@@ -2,7 +2,7 @@
 This project was created for machine learning course. Our task was to detect texts with fake data.
 
 ## Authors
-[Karolina Mączka](https://github.com/KarolinaMaczka)
+[Karolina Mączka](https://github.com/KarolinaMaczka)<br>
 [Tymoteusz Urban](https://github.com/tymsoncyferki)
 
 ## Data
