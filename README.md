@@ -23,3 +23,5 @@ This project was created for machine learning course. Our task was to detect tex
 - Hyperparameter optimization with Random Search CV
 - Independent validation
 - 0.99 AUC on test set
+
+(https://github.com/tymsoncyferki/ItML-Fake-News-Detection/blob/main/readme_files/roc_curve.png)
